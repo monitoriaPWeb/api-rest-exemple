@@ -1,3 +1,2 @@
-# Exemplo de API Rest com Springboot
-
-By: Cesário Neto
+# Exemplo de API Rest com Springboot, Swagger e PostgreSQL
+By: Xico & Cesário Neto
